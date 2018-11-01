@@ -1,0 +1,84 @@
+[System Process]	0	TCP	desktop-bbal29p.localdomain	50963	ad-it-78wyh12.ksd.edu	ms-do	TIME_WAIT										
+[System Process]	0	TCP	desktop-bbal29p.localdomain	50944	ec2-52-71-70-228.compute-1.amazonaws.com	https	TIME_WAIT	3	2,226	3	734						
+[System Process]	0	TCP	desktop-bbal29p.localdomain	50924	64.4.54.254	https	TIME_WAIT	6	14,088	7	7,276						
+[System Process]	0	TCP	desktop-bbal29p.localdomain	50972	den03s10-in-f35.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-bbal29p.localdomain	50974	den03s10-in-f35.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-bbal29p.localdomain	50975	den03s10-in-f35.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-bbal29p.localdomain	50925	64.4.54.254	https	TIME_WAIT	11	31,685	15	9,904						
+[System Process]	0	TCP	desktop-bbal29p.localdomain	50976	sea15s08-in-f14.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-bbal29p.localdomain	50977	sea15s08-in-f14.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-bbal29p.localdomain	50978	sea15s08-in-f14.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-bbal29p.localdomain	50935	den03s10-in-f35.1e100.net	https	TIME_WAIT	6	948	5	355						
+[System Process]	0	TCP	desktop-bbal29p.localdomain	50936	sea15s08-in-f13.1e100.net	https	TIME_WAIT	8	2,366	10	1,643						
+[System Process]	0	TCP	desktop-bbal29p.localdomain	50937	sea15s08-in-f1.1e100.net	https	TIME_WAIT	45	13,365	98	199,177						
+[System Process]	0	TCP	desktop-bbal29p.localdomain	50938	sea15s08-in-f10.1e100.net	https	TIME_WAIT	9	2,144	9	4,586						
+[System Process]	0	TCP	desktop-bbal29p.localdomain	50927	ua-in-f94.1e100.net	https	TIME_WAIT	18	3,084	14	4,722						
+firefox.exe	928	TCP	DESKTOP-BBAL29P	49700	localhost	49701	ESTABLISHED			2,068	2,068						
+firefox.exe	928	TCP	DESKTOP-BBAL29P	49701	localhost	49700	ESTABLISHED	2,068	2,068								
+firefox.exe	1524	TCP	DESKTOP-BBAL29P	49702	localhost	49703	ESTABLISHED			823	823						
+firefox.exe	1524	TCP	DESKTOP-BBAL29P	49703	localhost	49702	ESTABLISHED	823	823								
+firefox.exe	3888	TCP	DESKTOP-BBAL29P	49706	localhost	49707	ESTABLISHED			309	309						
+firefox.exe	3888	TCP	DESKTOP-BBAL29P	49707	localhost	49706	ESTABLISHED	309	309								
+firefox.exe	2868	TCP	DESKTOP-BBAL29P	49708	localhost	49709	ESTABLISHED										
+firefox.exe	2868	TCP	DESKTOP-BBAL29P	49709	localhost	49708	ESTABLISHED										
+firefox.exe	4188	TCP	DESKTOP-BBAL29P	50178	localhost	50179	ESTABLISHED										
+firefox.exe	4188	TCP	DESKTOP-BBAL29P	50179	localhost	50178	ESTABLISHED										
+firefox.exe	928	TCP	desktop-bbal29p.localdomain	50717	den03s10-in-f35.1e100.net	https	ESTABLISHED	76	6,153	76	169,034						
+firefox.exe	928	TCP	desktop-bbal29p.localdomain	50753	ie-in-f189.1e100.net	https	ESTABLISHED	27	4,986	33	40,942						
+firefox.exe	928	TCP	desktop-bbal29p.localdomain	50928	sea15s08-in-f14.1e100.net	https	ESTABLISHED	142	41,913	516	1,926,814						
+firefox.exe	928	TCP	desktop-bbal29p.localdomain	50929	sea15s08-in-f14.1e100.net	https	ESTABLISHED	25	14,879	69	84,835						
+firefox.exe	5404	TCP	DESKTOP-BBAL29P	50932	localhost	50933	ESTABLISHED			4,496	4,496						
+firefox.exe	5404	TCP	DESKTOP-BBAL29P	50933	localhost	50932	ESTABLISHED	4,496	4,496								
+firefox.exe	928	TCP	desktop-bbal29p.localdomain	50952	lb-192-30-253-124-iad.github.com	https	ESTABLISHED	6	1,570	4	529						
+firefox.exe	928	TCP	desktop-bbal29p.localdomain	50959	sea15s08-in-f10.1e100.net	https	ESTABLISHED	9	1,708	8	4,559						
+firefox.exe	928	TCP	desktop-bbal29p.localdomain	50968	server-13-33-138-122.sea4.r.cloudfront.net	https	ESTABLISHED	5	1,124	69	164,747						
+firefox.exe	928	TCP	desktop-bbal29p.localdomain	50969	sea15s08-in-f14.1e100.net	https	ESTABLISHED	12	2,388	20	18,734						
+firefox.exe	928	TCP	desktop-bbal29p.localdomain	50970	sea15s08-in-f13.1e100.net	https	ESTABLISHED	19	3,251	284	398,576						
+firefox.exe	928	TCP	desktop-bbal29p.localdomain	50971	any-in-2678.1e100.net	https	ESTABLISHED	3	1,064	8	7,338						
+firefox.exe	928	TCP	desktop-bbal29p.localdomain	50973	den03s10-in-f35.1e100.net	https	ESTABLISHED	17	2,243	74	113,520						
+lsass.exe	672	TCP	DESKTOP-BBAL29P	49679	DESKTOP-BBAL29P	0	LISTENING										
+lsass.exe	672	TCPV6	desktop-bbal29p	49679	desktop-bbal29p	0	LISTENING										
+putty.exe	7224	TCP	desktop-bbal29p.localdomain	50912	towel.blinkenlights.nl	telnet	ESTABLISHED			681	767,676						
+services.exe	660	TCP	DESKTOP-BBAL29P	49668	DESKTOP-BBAL29P	0	LISTENING										
+services.exe	660	TCPV6	desktop-bbal29p	49668	desktop-bbal29p	0	LISTENING										
+spoolsv.exe	2256	TCP	DESKTOP-BBAL29P	49667	DESKTOP-BBAL29P	0	LISTENING										
+spoolsv.exe	2256	TCPV6	desktop-bbal29p	49667	desktop-bbal29p	0	LISTENING										
+svchost.exe	908	TCP	DESKTOP-BBAL29P	epmap	DESKTOP-BBAL29P	0	LISTENING										
+svchost.exe	4020	TCP	desktop-bbal29p.localdomain	5040	DESKTOP-BBAL29P	0	LISTENING										
+svchost.exe	1200	TCP	DESKTOP-BBAL29P	49665	DESKTOP-BBAL29P	0	LISTENING										
+svchost.exe	1156	TCP	DESKTOP-BBAL29P	49666	DESKTOP-BBAL29P	0	LISTENING										
+svchost.exe	2540	TCP	desktop-bbal29p.localdomain	49675	13.89.220.65	https	ESTABLISHED										
+svchost.exe	2540	TCP	desktop-bbal29p.localdomain	49699	13.89.220.65	https	ESTABLISHED										
+svchost.exe	7484	TCP	desktop-bbal29p.localdomain	50158	lo-130-2ldrlc2.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7484	TCP	desktop-bbal29p.localdomain	50159	mts-dt-2xxjfz1.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7484	TCP	desktop-bbal29p.localdomain	50161	dh-lib-6dx9nx1.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7484	TCP	desktop-bbal29p.localdomain	50162	tt-102-h8zwt12.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7484	TCP	desktop-bbal29p.localdomain	50164	sg-22-94yzv32.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7484	TCP	desktop-bbal29p.localdomain	50169	wg-16-5ztyh12.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7484	TCP	DESKTOP-BBAL29P	ms-do	DESKTOP-BBAL29P	0	LISTENING										
+svchost.exe	7356	UDP	DESKTOP-BBAL29P	ssdp	*	*											
+svchost.exe	7356	UDP	desktop-bbal29p.localdomain	ssdp	*	*											
+svchost.exe	4020	UDP	DESKTOP-BBAL29P	5050	*	*											
+svchost.exe	1916	UDP	DESKTOP-BBAL29P	5353	*	*											
+svchost.exe	1916	UDP	DESKTOP-BBAL29P	llmnr	*	*											
+svchost.exe	7356	UDP	desktop-bbal29p.localdomain	54023	*	*											
+svchost.exe	7356	UDP	DESKTOP-BBAL29P	54024	*	*											
+svchost.exe	2808	UDP	DESKTOP-BBAL29P	64675	*	*											
+svchost.exe	908	TCPV6	desktop-bbal29p	epmap	desktop-bbal29p	0	LISTENING										
+svchost.exe	7484	TCPV6	desktop-bbal29p	ms-do	desktop-bbal29p	0	LISTENING										
+svchost.exe	1200	TCPV6	desktop-bbal29p	49665	desktop-bbal29p	0	LISTENING										
+svchost.exe	1156	TCPV6	desktop-bbal29p	49666	desktop-bbal29p	0	LISTENING										
+svchost.exe	7356	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	7356	UDPV6	[fe80:0:0:0:7979:22f8:2287:aa3c]	1900	*	*											
+svchost.exe	1916	UDPV6	desktop-bbal29p	5353	*	*											
+svchost.exe	1916	UDPV6	desktop-bbal29p	5355	*	*											
+svchost.exe	7356	UDPV6	[fe80:0:0:0:7979:22f8:2287:aa3c]	54021	*	*											
+svchost.exe	7356	UDPV6	[0:0:0:0:0:0:0:1]	54022	*	*											
+svchost.exe	1572	UDPV6	[fe80:0:0:0:4c8:1b6c:53ef:b87d]	546	*	*		7	665								
+System	4	TCP	desktop-bbal29p.localdomain	netbios-ssn	DESKTOP-BBAL29P	0	LISTENING										
+System	4	TCP	DESKTOP-BBAL29P	microsoft-ds	DESKTOP-BBAL29P	0	LISTENING										
+System	4	UDP	desktop-bbal29p.localdomain	netbios-ns	*	*		12	708	3	150						
+System	4	UDP	desktop-bbal29p.localdomain	netbios-dgm	*	*											
+System	4	TCPV6	desktop-bbal29p	microsoft-ds	desktop-bbal29p	0	LISTENING										
+wininit.exe	520	TCP	DESKTOP-BBAL29P	49664	DESKTOP-BBAL29P	0	LISTENING										
+wininit.exe	520	TCPV6	desktop-bbal29p	49664	desktop-bbal29p	0	LISTENING										
